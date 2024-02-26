@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://github.com/DoaaAbdallah1/expanded_flutter/assets/122896725/99c18986-6f5c-4827-9952-c8b3c3479d2a" width="320">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
